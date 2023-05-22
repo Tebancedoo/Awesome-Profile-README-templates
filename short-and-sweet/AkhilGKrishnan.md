@@ -4,9 +4,7 @@ I'm Akhil G Krishnan, a 22-year old technical enthusiast who does web developmen
 ## 📫 How to reach me: 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/akhilgkrishnan) 
 
-[![GitHub](https://i.stack.imgur.com/tskMh.png)
-
-[!GitHub](https://github.com/akhilgkrishnan) 
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/akhilgkrishnan) 
 
 [![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter]
 

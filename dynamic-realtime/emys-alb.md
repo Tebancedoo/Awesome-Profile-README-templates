@@ -3,6 +3,7 @@
 <a href="https://www.linkedin.com/in/emilly-de-albuquerque-oliveira-59837118b/">
   <img align="left" alt="Emilly's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+
 <a href="https://twitter.com/emys_alb">
   <img align="left" alt="Emilly's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/twitter.svg" />
 </a>

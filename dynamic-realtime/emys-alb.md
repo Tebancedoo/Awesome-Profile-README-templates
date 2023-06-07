@@ -11,7 +11,7 @@
 <img align="right" width="450px" alt="GIF" src="https://miro.medium.com/max/480/0*tWkX7jycteZn1qbC.gif" />
 <br>
 
-<br> My name is Emilly(she/her). I'm pursuing a Bachelor's degree in Computer Science. 
+<br> My name is Emilly(she/her). I'm pursuing a Bachelor's degree in Computer Science. <br>
 <br> 🔭 Currently learning about data science, frontend and how to play among us.
 <br> 🌱 I am passionate about contribuing, being part of a community (that's why i'm in so many...) and music.
 <br> ⚡ Recently my projects are kid-related, while I am studying I find something nice to do for them.

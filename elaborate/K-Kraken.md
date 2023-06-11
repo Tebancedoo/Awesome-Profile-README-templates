@@ -73,6 +73,7 @@ Here's my favourite song for you :trumpet:- [**Feeling Good** by **Nina Simone**
 <br></details>
 <!-- footer --!>
 <p align="center"><a href="http://hits.dwyl.com/K-Kraken/K-Kraken"><img src="http://hits.dwyl.com/K-Kraken/K-Kraken.svg" alt="HitCount"></a></p>
+
 <p align="center">
     <a id="GitHub" href="https://github.com/K-Kraken/"><img width="27px" src="https://thekrishna.in/K-Kraken/img/gh.png" alt="Krishnakanth Alagiri - GitHub" /></a>
     &nbsp;&nbsp;     

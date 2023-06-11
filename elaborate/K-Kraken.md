@@ -80,6 +80,7 @@ Here's my favourite song for you :trumpet:- [**Feeling Good** by **Nina Simone**
     &nbsp;&nbsp;
     <a id="Website" href="https://thekrishna.in/"><img width="27px" src="https://thekrishna.in/K-Kraken/img/web.png" alt="Krishnakanth Alagiri - Website" /></a>
     &nbsp;&nbsp;
-   <a id="Mail" href="mailto:krishna.alagiri03@gmail.com"><img width="27px" src="https://thekrishna.in/K-Kraken/img/mail.png?" alt="Krishnakanth Alagiri - Mail"/></a>
+   <a id="Mail" href="mailto:krishna.alagiri03@gmail.com"><img width="27px" src="[https://thekrishna.in/K-Kraken/img/mail.png](https://imgur.com/rilHVxA.png)?" alt="Krishnakanth Alagiri - Mail"/></a>
 </p>
+
 <img src="https://imgur.com/rilHVxA.png"/>
